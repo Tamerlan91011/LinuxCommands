@@ -33,3 +33,33 @@ $ pip freeze > requirements.txt
 ```console
 $ pip install -r requirements.txt
 ```
+
+---
+
+## Команды пакетного менeджера pip
+
+Посмотреть список установленных пакетов в текущем виртуальном окружении (либо в текущем интерпретаторе ОС):
+
+Обновление пакетного менеджера:
+
+```console
+$ pip install --upgrade pip
+```
+
+Отобразить список установленных в виуртальном окружении пакетов:
+
+```console
+$ pip list 
+```
+
+Установить пакет:
+
+```console
+$ pip install package-name
+```
+
+Удалить пакет:
+
+```console
+$ pip uninstall package-name
+```
