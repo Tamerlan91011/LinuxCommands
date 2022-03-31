@@ -8,7 +8,7 @@
 
 - [Как создавать venv для проекта Python](/linux_python/linux_python.md#виртуальное-окружения-проекта-python)
 
-- Работа с пакетными менеджером pip (В ПРОЦЕССЕ)
+- [Работа с пакетными менеджером pip](/linux_python/linux_python.md#команды-пакетного-менeджера-pip)
 
 - [Работа с git](/git/linux_git.md)
 
