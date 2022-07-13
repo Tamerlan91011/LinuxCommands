@@ -1,0 +1,2 @@
+#№Установление пакетов в Manjaro:
+user $ pamac install [PackageName]
