@@ -1,15 +1,27 @@
-# Шпаргалка по командам в ОС Linux (Ubuntu 20+)
+# Шпаргалка по наиболее частым командам в ОС Linux 
 
-## Навигация
+## Общие команды:
 
 - [Если потерялся в терминале Linux](/linux_general/linux_general.md#где-я)
 
 - [Как и что делать с файлами](/linux_general/linux_general.md#команды-взаимодействия-с-файлами)
 
-- [Как создавать venv для проекта Python](/linux_python/linux_python.md#виртуальное-окружения-проекта-python)
+<hr>
 
-- [Работа с пакетными менеджером pip](/linux_python/linux_python.md#команды-пакетного-менeджера-pip)
+## Инструменты: 
+### Python
 
-- [Работа с git](/git/linux_git.md)
+- [Как создавать venv для проекта Python](/tools/python.md#виртуальное-окружения-проекта-python)
 
-## Полезные ссылки [НА РЕКОНСТРУКЦИИ]
+- [Работа с пакетными менеджером pip](/tools/python.md#команды-пакетного-менeджера-pip)
+
+
+### Git
+
+- [Работа с git](/tools/git.md)
+
+
+<hr>
+
+## Полезные ссылки
+- [Шпора для Manjaro](https://wiki.manjaro.org/index.php/CheatSheet)
